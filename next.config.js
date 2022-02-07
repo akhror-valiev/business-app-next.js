@@ -4,4 +4,7 @@ module.exports = {
 	images: {
 		domains: ["images.pexels.com"],
 	},
+	eslint: {
+		ignoreDuringBuilds: true,
+	},
 };
